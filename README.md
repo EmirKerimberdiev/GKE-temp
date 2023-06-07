@@ -1,3 +1,1 @@
-# GKE-temp
-# ArgoCD
 # ArgoCD
